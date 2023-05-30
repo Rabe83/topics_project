@@ -1,0 +1,4 @@
+<launch>
+
+  <node pkg="topics_project" type="topics_project_node.py" name="topics_project_node"  output="screen" />
+</launch>
